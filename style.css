@@ -1,0 +1,17 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+.top-banner {
+    background-image: url(image/african-american-business-woman-by-window_1303-10869.webp);
+    background-repeat: no-repeat;
+    width: 5000px;
+    height: 5000px;
+}
+
+.div-1 {
+    font-size: 30px;
+    width: 20%;
+    padding-left: 40px;
+    padding-top: 30px;
+}

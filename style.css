@@ -1,7 +1,31 @@
-.site {
+.navbar {
+    background-color: rgba(128, 128, 128, 0.342);
+    padding: 18px;
+    display: flex;
+
+}
+
+.samia {
     display: flex;
 }
 
-.div-1 {
-    font-size: 50px;
+.anchor {
+    padding-right: 1200px;
+}
+
+.anchor a {
+    text-decoration: none;
+    padding: 3px;
+    font-size: 22px;
+
+}
+
+.search input {
+    font-size: 22px;
+    border-radius: 5px;
+}
+
+.search button {
+    font-size: 22px;
+    border-radius: 5px;
 }

@@ -1,3 +1,8 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
 .bannar {
     background-image: url("image/back-school.png.webp");
     background-size: cover;
@@ -7,7 +12,13 @@
 }
 
 .welcome {
-
-    font-size: 30px;
+    text-align: center;
+    font-size: 20px;
     color: white;
+    padding-top: 100px;
+}
+
+.welcome h1 {
+    font-size: 100px;
+    padding-bottom: 40px;
 }

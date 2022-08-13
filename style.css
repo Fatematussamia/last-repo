@@ -1,31 +1,13 @@
-.navbar {
-    background-color: rgba(128, 128, 128, 0.342);
-    padding: 18px;
-    display: flex;
+.bannar {
+    background-image: url("image/back-school.png.webp");
+    background-size: cover;
+    background-repeat: no-repeat;
 
+    height: 100vh;
 }
 
-.samia {
-    display: flex;
-}
+.welcome {
 
-.anchor {
-    padding-right: 1200px;
-}
-
-.anchor a {
-    text-decoration: none;
-    padding: 3px;
-    font-size: 22px;
-
-}
-
-.search input {
-    font-size: 22px;
-    border-radius: 5px;
-}
-
-.search button {
-    font-size: 22px;
-    border-radius: 5px;
+    font-size: 30px;
+    color: white;
 }

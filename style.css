@@ -22,3 +22,16 @@ body {
     font-size: 100px;
     padding-bottom: 40px;
 }
+
+.type {
+    text-align: center;
+    font-size: 10px;
+}
+
+.shoes {
+    padding: 40px;
+}
+
+.card {
+    padding: 50px;
+}
